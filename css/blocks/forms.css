@@ -1,0 +1,16 @@
+html, body {
+	font-family: 'Raleway', sans-serif;
+	background-color: #ffe6e6;
+}
+
+h1 {
+	margin-bottom: 1.5rem;
+}
+
+p {
+	font-weight: 500;
+}
+
+#section-one {
+	background-color: #ffb3b3;
+}

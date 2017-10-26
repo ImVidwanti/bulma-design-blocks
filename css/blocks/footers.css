@@ -1,0 +1,36 @@
+html, body {
+	font-family: 'Raleway', sans-serif;
+	background-color: #ffe6e6;
+}
+
+.space {
+	padding: .5rem;
+	margin: 1rem auto;
+}
+
+.text-white {
+	color: #fff;
+}
+
+#footer-one {
+	background-color: #ffb3b3;
+	padding: 1.5rem 1rem 1.5rem;
+}
+
+#footer-two {
+	background-color: #ff3860;
+	padding: 1.5rem 1rem 1.5rem;
+	font-weight: 600;
+}
+
+#footer-three {
+	background-color: #ff3860;
+	padding: 1.5rem 1rem 1.5rem;
+	font-weight: 600;
+}
+
+#footer-four {
+	background-color: #ffdd57;
+	padding: 1.5rem 1rem 1.5rem;
+	font-weight: 500;
+}
