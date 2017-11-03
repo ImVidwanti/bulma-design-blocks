@@ -14,3 +14,8 @@ p {
 #section-one {
 	background-color: #ffb3b3;
 }
+
+#section-two p {
+	margin-bottom: 2.5rem;
+	margin-top: 2.5rem;
+}
